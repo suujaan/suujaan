@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suujaan
-- 👀 I’m interested in ... web  application 
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...web application
+- 👀 I am a professional data analyst and visualization developer.
+- 🌱 I’m Tableau Visualization Expert.
+- 💞️ My Dashbord :- https://public.tableau.com/app/profile/sujan.miah
 - 📫 How to reach me ... suujaan@gmail.com
 
 <!---
